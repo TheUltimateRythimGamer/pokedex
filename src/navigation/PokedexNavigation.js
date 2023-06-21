@@ -15,6 +15,7 @@ export default function PokedexNavigation() {
           title: "Pokedex",
         }}
       />
+
       <Stack.Screen
         name="Pokemon"
         component={Pokemon}
